@@ -21,15 +21,17 @@
  | |_) | (_) | |  | |_  \__ \ (_| (_| | | | | | | |  __/ |
  | .__/ \___/|_|   \__| |___/\___\__,_|_| |_|_| |_|\___|_|
  |_|
+
+ 
  Author  : R00T-H4WK
  Country : Indonesia
  Version : 1.0
  Usage Example = python open_port_scanner.py  -H 104.27.177.146 -p 80 -t 80
-usage: open_port_scanner.py [-h] [-H HOST] [-p PORT] [-t THREADS]
+ usage: open_port_scanner.py [-h] [-H HOST] [-p PORT] [-t THREADS]
 
-multi-thread port scanner,python3.6.0
+ multi-thread port scanner,python3.6.0
 
-optional arguments:
+ optional arguments:
   -h, --help            show this help message and exit
   -H HOST, --host HOST  specify target ip[s], example:
                         104.27.177.146-123.234.234.234
@@ -39,5 +41,5 @@ optional arguments:
 Root@localhost#
 
 # congratulations to use please use wisely
-* licence
+* licence *
   All rights reserved by AnonymousSec © 2019
