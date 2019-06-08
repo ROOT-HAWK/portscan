@@ -12,8 +12,8 @@
 
 * @Rootlocalhost# git clone https://github.com/ROOT-HAWK/portscan
 * @Rootlocalhost# cd portscan
-* @Rootlocalhost# chmod +x open_port_scanner.py
-* @Rootlocalhost# python open_port_scanner.py
+* @Rootlocalhost# chmod +x portscanner.py
+* @Rootlocalhost# python portscanner.py
 
                         _
         _ __   ___  _ __| |_   ___  ___ __ _ _ __  _ __   ___ _ __
@@ -28,7 +28,7 @@
         Country : Indonesia
         Version : 1.0
         Usage Example = python open_port_scanner.py  -H 104.27.177.146 -p 80 -t 80
-        usage: open_port_scanner.py [-h] [-H HOST] [-p PORT] [-t THREADS]
+        usage: portscanner.py [-h] [-H HOST] [-p PORT] [-t THREADS]
 
         multi-thread port scanner,python3.6.0
 
